@@ -1,5 +1,5 @@
 const Discord = require("discord.js");
-const myid = ['id xot'] ////////////////////prefix wara 
+const myid = ['785861831951515708'] ////////////////////prefix wara 
 const jano = new Discord.Client();
 const jano2 = new Discord.Client();
 const jano3 = new Discord.Client();
@@ -5458,10 +5458,10 @@ jano100.on("ready", () => {
 
 //////////////// tokn lera da bne 
 
-jano.login("");
-jano2.login("");
-jano3.login("");
-jano4.login("");
+jano.login("ODk5NDMyNTEzODMzOTM5MDA3.YWysaw.4ZlwyStpuLyZE00TaHIa8MVSlYs");
+jano2.login("ODk5NDQ2NTM3MTIwMjg0NzIz.YWy5gQ.YgPGzJAbSxgu8IEjdCOthBsuIZc");
+jano3.login("ODk5NDM4MzU0NzIxMDQ2NTI5.YWyxtg.TG-CtjZlmz28qqlYFY5YtwohBo0");
+jano4.login("ODk5NDM2MDYwMjA2MDYzNjY4.YWyvwg.MFdu6bmGXz09JWvcl4sz3lY6szI");
 jano5.login("");
 jano6.login("");
 jano7.login("");
